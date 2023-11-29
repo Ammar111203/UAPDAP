@@ -350,6 +350,12 @@ a:hover, a:active, a:focus {
   height: 100vh;
 }
 
+.my-img {
+  width: 12em;
+  border-radius: .1em;
+  border: .4em solid white;
+}
+
 #home .home-thumb {
   display: -webkit-box;
   display: -webkit-flex;
